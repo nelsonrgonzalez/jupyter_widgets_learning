@@ -1,2 +1,3 @@
 # jupyter_widgets_learning
- Learning jupyter widgets with python and notebooks
+ 
+Learning jupyter widgets with python and notebooks
